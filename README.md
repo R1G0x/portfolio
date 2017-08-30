@@ -16,5 +16,3 @@ def method
   puts "Hello World"
 end
 
-´´´javascript
-alert("Hello World");
