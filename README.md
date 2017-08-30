@@ -17,10 +17,6 @@ def method
 end
 ´´´
 
-```javascript
-alert("Hello world");
-´´´
-
 
 
 
