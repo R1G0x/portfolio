@@ -13,10 +13,16 @@
 
 ```ruby
 def method
-    puts "Hello World"
+  puts "Hello World"
 end
 ´´´
 
 ```javascript
-alert("Hello");
+alert("Hello world");
 ´´´
+
+
+
+
+
+
